@@ -1,4 +1,6 @@
-### Hi there 👋
+Hello, I'm Aster! I'm a graduate of the department of Automation Engineering of the International Hellenic University and I specialise in System Administration and Embedded Systems Engineering.
+
+For more info about me, feel free to check out my [personal website](https://bandisast.eu/)!
 
 <!--
 **bandisast/bandisast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
